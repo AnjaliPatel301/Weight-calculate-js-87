@@ -1,4 +1,5 @@
 🔧 Technologies Used
+
 HTML
 
 CSS
@@ -6,6 +7,7 @@ CSS
 JavaScript
 
 ✨ Features
+
 Generate random weights
 
 Option to specify weight ranges
@@ -16,13 +18,19 @@ Instant updates without page reload
 
 
 📂 Project Structure
+
 css
+
 Copy
+
 Edit
+
 /weight-generator
 │
 ├── index.html       → Main HTML page
+
 ├── style.css        → CSS for styling
+
 └── script.js        → JavaScript logic
 
 
