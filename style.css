@@ -1,1 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.box{
+    text-align: center;
+    width:400px;
+    border-radius: 8px;
+    box-shadow: 2px 5px 10px rgba(3, 111, 75,0.5);
+    background-color: #fff;
 
+}
+h2{
+    font-size: 2rem;
+    color:#fff;
+    border-radius:8px 8px 0px 0px;
+    background-color: rgb(3, 111, 75);
+    padding: 10px;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+label{
+    display: block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#input-text{
+    width:90%;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.output{
+    font-size: 1rem;
+}
